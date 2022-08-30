@@ -38,6 +38,7 @@ function addTwoNumbers(
 }
 const firstNode=new ListNode();
 firstNode.val = 5;
+
 const secondNode=new ListNode();
 secondNode.val = 5;
 console.log(addTwoNumbers(firstNode, secondNode));
